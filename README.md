@@ -4,11 +4,12 @@
 * Lớp: 15CK3
 * Email: phungvan215@gmail.com
 * Điện thoại: 01635261400
-* Link facebook cá nhân: https://www.facebook.com/nguyenphungkimvan
+* [Link facebook cá nhân](https://www.facebook.com/nguyenphungkimvan)
 * Thời khóa biểu:
 
-| Tables        | Are           | Cool  |
-| ------------- |---------------|-------|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Thời Gian    | Thứ 2 | Thứ 3         | Thứ 4            | Thứ 5 | Thứ 6               | Thứ 7      |
+| ------------ | ----- | ------------- | ---------------- | ----- |  ------------------ |  ---       |
+| 6h50-9h20    | ...   | ...           | Các UDTHDH Linux | ...   | Tư Tưởng HCM        | *TH.PTUD2* |
+| 9h20-12h00   | ...   | *TH.TKHTMạng* | TKHTMạng         | PTUD2 | Pháp Luật Đại Cương | *TH.Web2*  |
+| 12h30-15h10  | ...   | ...           | ...              | ...   | ...                 | *TH.Linux* |
+| 15h10-17h50  | ...   | Web2          | ...              | ...   | ...                 | ...        |

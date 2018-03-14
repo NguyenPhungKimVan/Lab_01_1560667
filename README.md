@@ -4,7 +4,7 @@
 * Lớp: 15CK3
 * Email: phungvan215@gmail.com
 * Điện thoại: 01635261400
-* [Link facebook cá nhân](https://www.facebook.com/nguyenphungkimvan)
+* Link facebook cá nhân: [Kim Vân](https://www.facebook.com/nguyenphungkimvan)
 * Thời khóa biểu:
 
 | Thời Gian    | Thứ 2 | Thứ 3         | Thứ 4            | Thứ 5 | Thứ 6               | Thứ 7      |
